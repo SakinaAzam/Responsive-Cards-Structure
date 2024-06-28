@@ -1,0 +1,13 @@
+.MainCard{
+ padding: 50px;
+}
+.Heading{
+    display: flex;
+    margin: 0 auto;
+    justify-items: center;
+    justify-content: center;
+    padding: 40px;
+    font-size: 75px;
+    color: gray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
